@@ -1,0 +1,29 @@
+{
+  "name": "google-play-reports",
+  "version": "1.0.0",
+  "description": "Small library to get reports from Google Play Developer Console",
+  "main": "./lib",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Squallium/google-play-reports.git"
+  },
+  "keywords": [
+    "node",
+    "google",
+    "play",
+    "android",
+    "reports",
+    "finances",
+    "earnings",
+    "crashes"
+  ],
+  "author": "Borja Refoyo Ruiz <squallium3@gmail.com> (http://www.borjarefoyo.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Squallium/google-play-reports/issues"
+  },
+  "homepage": "https://github.com/Squallium/google-play-reports#readme"
+}
